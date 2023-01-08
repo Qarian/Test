@@ -16,6 +16,7 @@ public class Path : MonoBehaviour
 
     private bool moveInReverse = false;
     private bool canMove = true;
+    private bool test = false;
 
     private void Update()
     {
