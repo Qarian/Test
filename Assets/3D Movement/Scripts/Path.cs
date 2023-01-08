@@ -12,7 +12,7 @@ public class Path : MonoBehaviour
     [SerializeField] private float speed = 1f;
     [SerializeField] private PathOption pathOption;
 
-    private int currentTarget = 0;
+    private int currentTarget = 2;
 
     private bool moveInReverse = false;
     private bool canMove = true;
